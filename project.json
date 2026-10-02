@@ -1,0 +1,21 @@
+{
+  "id": 820,
+  "title": "Indoor Mapping Drone Post-Flight Analytics",
+  "repository_slug": "indoor-mapping-drone-post-flight-analytics",
+  "category": "Drones",
+  "platform": "ESP32",
+  "platform_family": "arduino",
+  "difficulty": "Beginner",
+  "estimated_hours": 16,
+  "connectivity": "Telemetry radio",
+  "components": [
+    "flight controller",
+    "camera",
+    "optical flow sensor"
+  ],
+  "scope": "Build a drones prototype that uses flight controller, camera, optical flow sensor to summarize mission performance and sensor data. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Post-Flight Analytics demonstration with repeatable test steps",
+  "mode": "data_logger",
+  "entrypoint": "firmware/indoor-mapping-drone-post-flight-analytics/indoor-mapping-drone-post-flight-analytics.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
